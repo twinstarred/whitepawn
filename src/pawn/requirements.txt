@@ -1,0 +1,5 @@
+AppKit==0.2.8
+Pillow==11.1.0
+pyobjc_framework_Cocoa==11.0
+pyqrcode==1.2.1
+qrcode==8.0
