@@ -3,7 +3,7 @@ import time
 import subprocess
 from multiprocessing import Process
 
-def winforce():
+def chess():
     while True:
         subprocess.run(['open', '-n', 'Chess.app'])
         time.sleep(0.2)
@@ -28,7 +28,7 @@ def winforce():
         time.sleep(0.1)
 
 def main():
-    chess_process = Process(target= winforce)
+    chess_process = Process(target= chess)
     chess_process.start()
     chess_process.join()
 
