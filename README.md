@@ -2,10 +2,12 @@
 <img src="https://github.com/user-attachments/assets/815a9f0b-40fb-4f61-848c-1690bb5935ec" width="100">
 </p>
 <h1 align="center">whitepawn</h1>
-<p align="center">placeholder text</p>
+<p align="center">
+  <i>macOS malware that has nearly nothing to do with chess (or pawns)</i>
+</p>
 
 # ♙ Setup
-!! * Remember, whitepawn is MALWARE! \
+<b>!! * Remember, whitepawn is MALWARE!</b> \
 !! * If you wish to use the SAFE version, which doesn't tamper with files or make any bad changes, focus on the ```pawn_safe``` directory.
 
 Simply clone the repository and run ```src/pawn/loader.sh``` or ```src/pawn_safe/safeloader.sh``` accordingly.
