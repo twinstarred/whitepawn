@@ -4,20 +4,15 @@
 <h1 align="center">whitepawn</h1>
 <p align="center">placeholder text</p>
 
-# Setup
-!! * Remember, whitepawn is MALWARE!
-<pre>
-  <code>
-<p align="center">curl -fsL "https://raw.githubusercontent.com/twinstarred/whitepawn/main/scripts/setup.sh" | sh</p>
-      </code>
-</pre>
+# ♙ Setup
+!! * Remember, whitepawn is MALWARE! \
+!! * If you wish to use the SAFE version, which doesn't tamper with files or make any bad changes, focus on the ```pawn_safe``` directory.
 
-!! * If you wish to install the SAFE version, which doesn't tamper with files or make any bad changes, use:
-<pre>
-  <code>
-<p align="center">curl -fsL "https://raw.githubusercontent.com/twinstarred/whitepawn/main/scripts/safesetup.sh" | sh</p>
-      </code>
-</pre>
+Simply clone the repository and run ```src/pawn/loader.sh``` or ```src/pawn_safe/safeloader.sh``` accordingly.
 
-# About
-this is text what would you know
+# ♙ About
+## whitepawn
+hi
+
+## whitepawn (safe)
+The safe version of whitepawn, whose script effects do no harm and are visual, easily undoable, or will be gone after logging out and back in or rebooting. System files, user data and software are safe. No directories will be deleted or altered; only those of whitepawn.
